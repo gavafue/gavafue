@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="height: 100px" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="height: 150px" />
 </div> 
 
 # 💫 About Me:
