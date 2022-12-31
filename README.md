@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div> 
 # 💫 About Me:
 🔭 I’m currently working on [Gabiflix](https://github.com/gavafue/movie-repository)<br><br>- 🌱 I’m currently learning React, React Native, Node JS, Express JS<br><br>- 👯 I’m looking for get new challenging work experiences.<br><br>- 🤝 I’m looking for help with any project where I can contribute all my value and knowledge to generate quality applications.<br><br>- 👨‍💻 All of my projects are available [Here](https://github.com/gavafue?tab=repositories)<br><br>- 💬 Ask me about React, Node JS, Express JS, Javascript, HTML, CSS, Redux-<br><br>📄 Know about my experiences [Resume - English](https://drive.google.com/file/d/1nxzrzX7UgsM41fbVIxGSkMF6779SduOZ/view?usp=sharing) || [Resume - Spanish](https://drive.google.com/file/d/1CyCDvcWIfrogPsdg5gZFncK8ggTVtkaS/view?usp=sharing)<br><br>- ⚡ Fun fact **nowadays most of the technologies I know I learned by myself by reading the official documentation. I watch Youtube videos in English with English subtitles to improve my listening in that language.**
 
