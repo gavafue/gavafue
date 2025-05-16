@@ -8,7 +8,8 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gavafue)
   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gavafueLearning)
 </div>
-##📋 Sobre Mí
+
+## 📋 Sobre Mí
 
 > "La educación es el software que programa el futuro"
 
@@ -22,7 +23,7 @@ Docente de Informática egresado del **Instituto Normal de Enseñanza Técnica (
 
 ## 🎓 Formación Académica
 
-- **Título en Informática** - INET, Uruguay (Noviembre 2024)
+- **Título Profesor en Informática** - INET, Uruguay (Noviembre 2024)
 - **Formación continua** en tecnologías emergentes y metodologías educativas
 
 ## 🛠️ Stack Tecnológico
