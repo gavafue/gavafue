@@ -3,12 +3,12 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Docente+de+Inform%C3%A1tica;Apasionado+por+la+Educaci%C3%B3n+Tech" alt="Typing SVG" />
   
-  [!)
+  [)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gavafue)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gavafue)
   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gavafueLearning)
 </div>
-## 📋 Sobre Mí
+##📋 Sobre Mí
 
 > "La educación es el software que programa el futuro"
 
@@ -127,8 +127,8 @@ Docente de Informática egresado del **Instituto Normal de Enseñanza Técnica (
 
 ¿Interesado en colaborar en proyectos educativos o de desarrollo web? ¡Me encantaría intercambiar ideas!
 
-- 📧 **Email**: [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
-- 🌐 **Portfolio**: [tuportfolio.com](https://tuportfolio.com)
+- 📧 **Email**: [gabriel.vazquez@docente.ceibal.edu.uy](mailto:gabriel.vazquez@docente.ceibal.edu.uy)
+- 🌐 **Portfolio**: [Curriculum Vitae](https://export.cvuy.uy/cv/?1ef08a58a0c81bcd4d399b62513ffa9a)
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
