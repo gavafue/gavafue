@@ -2,8 +2,6 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Docente+de+Inform%C3%A1tica;Apasionado+por+la+Educaci%C3%B3n+Tech" alt="Typing SVG" />
-  
-  [![Visitas](https://visitcount.itsvg.in/api?id=gavafue&icon=0&color=0)](https://visitcount.itsvg.in)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gavafue)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gavafue)
   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gavafueLearning)
