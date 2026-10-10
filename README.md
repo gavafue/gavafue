@@ -21,7 +21,7 @@
 
 > *"La educación es el software que programa el futuro"*
 
-Docente de Informática egresado del **Instituto Normal de Enseñanza Técnica (INET - ANEP)** de Uruguay y Desarrollador Full Stack. Mi labor combina la ingeniería de software con la pedagogía técnica, diseñando soluciones robustas, accesibles y orientadas a la innovación áulica e institucional.
+Docente de Informática egresado del **Instituto Normal de Enseñanza Técnica (INET - ANEP)** de Uruguay y desarrollador Full Stack de **aprendizaje autónomo y continuo**. Integro el desarrollo práctico de software con la vocación docente, diseñando herramientas tecnológicas accesibles y orientadas a la innovación áulica e institucional.
 
 - 🏫 **DGETP - UTU:** Profesor de **Programación Web Full Stack** y Asistente de Laboratorio de Informática en el **Instituto Superior Brazo Oriental (ISBO)**.
 - 🎓 **DGES - Secundaria:** Profesor Orientador en Informática y Tecnología Educativa (**POITE**), enfocado en administración de sistemas GNU/Linux, redes escolares y alfabetización digital.
