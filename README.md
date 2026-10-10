@@ -1,6 +1,6 @@
 <div align="center">
 
-# Gabriel Antonio Vázquez Fuentes
+# Gabriel Vázquez
 ### 👨‍🏫 Profesor de Informática & Full Stack Software Developer 🇺🇾
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&height=45&lines=Profesor+de+Inform%C3%A1tica+%7C+INET+(ANEP);Full+Stack+Software+Developer+%F0%9F%87%BA%F0%9F%87%BE;Docente+DGETP-UTU+%26+DGES;SysAdmin+Linux%2C+DevOps+%26+Docker;Arquitecturas+Web+%26+Agentes+IA;Autor+REA+Ceibal+%22Aula+IA%22)](https://github.com/gavafue)
