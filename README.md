@@ -1,138 +1,181 @@
-# Gabriel Vázquez | Desarrollador Web & Docente 👨‍🏫
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Docente+de+Inform%C3%A1tica;Apasionado+por+la+Educaci%C3%B3n+Tech" alt="Typing SVG" />
-  
-  
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gavafue)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gavafue)
-  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gavafueLearning)
+
+# Gabriel Vázquez
+### 👨‍🏫 Profesor de Informática & Full Stack Software Developer 🇺🇾
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=540&height=45&lines=Profesor+de+Inform%C3%A1tica+%7C+INET+(ANEP);Full+Stack+Developer+%F0%9F%87%BA%F0%9F%87%BE;Arquitecturas+Web+%26+Software+Educativo;Linux%2C+Docker+%26+Agentes+IA;Docente+DGETP-UTU+%26+DGES)](https://github.com/gavafue)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gavafue" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://export.cvuy.uy/cv/?1ef08a58a0c81bcd4d399b62513ffa9a" target="_blank"><img src="https://img.shields.io/badge/CVUy%20Oficial-ANII-005696?style=for-the-badge&logo=googledocs&logoColor=white" alt="CVUy Oficial" /></a>
+  <a href="mailto:gabriel.vazquez@docente.ceibal.edu.uy"><img src="https://img.shields.io/badge/Ceibal-Docente-00833E?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Docente" /></a>
+  <a href="mailto:gavf.vazquez@gmail.com"><img src="https://img.shields.io/badge/Gmail-Personal-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Personal" /></a>
+  <a href="https://youtube.com/@gavafueLearning" target="_blank"><img src="https://img.shields.io/badge/YouTube-Learning-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+</p>
+
 </div>
+
+---
 
 ## 📋 Sobre Mí
 
-> "La educación es el software que programa el futuro"
+> *"La educación es el software que programa el futuro"*
 
-Docente de Informática egresado del **Instituto Normal de Enseñanza Técnica (INET)** de Uruguay, especializado en Programación Web Full Stack. Apasionado por el desarrollo web y las arquitecturas cliente-servidor, áreas donde encuentro el perfecto equilibrio entre creatividad técnica e innovación.
+Docente de Informática egresado del **Instituto Normal de Enseñanza Técnica (INET - ANEP)** de Uruguay y Desarrollador Full Stack. Mi labor combina la ingeniería de software con la pedagogía técnica, diseñando soluciones robustas, accesibles y orientadas a la innovación áulica e institucional.
 
-## 👨‍🏫 Experiencia Profesional
+- 🏫 **DGETP - UTU:** Profesor de **Programación Web Full Stack** y Asistente de Laboratorio de Informática en el **Instituto Superior Brazo Oriental (ISBO)**.
+- 🎓 **DGES - Secundaria:** Profesor Orientador en Informática y Tecnología Educativa (**POITE**), enfocado en administración de sistemas GNU/Linux, redes escolares y alfabetización digital.
+- 💡 **Investigación & Contenidos Abiertos:** Co-autor del Recurso Educativo Abierto (REA) [**Aula IA - ¿Cómo aprenden las computadoras?**](https://rea.ceibal.edu.uy/rea/aula-ia-como-aprenden-las-computadoras), publicado por **Ceibal**.
+- ⚙️ **Enfoque de Desarrollo:** Arquitecturas web cliente-servidor tolerantes a fallos, automatización con scripts de sistema, Docker, contenedores y agentes inteligentes con LLMs.
 
-- **Docente de Programación Web Full Stack**
-- **Asistente de Laboratorio** - DGETP (Dirección General de Educación Técnico Profesional)
-- **Asistente de Laboratorio** - DGES (Dirección General de Educación Superior)
+---
 
-## 🎓 Formación Académica
+## 🚀 Proyectos Destacados
 
-- **Título Profesor en Informática** - INET, Uruguay (Noviembre 2024)
-- **Formación continua** en tecnologías emergentes y metodologías educativas
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏫 <a href="https://github.com/gavafue/cartelera-isbo">Cartelera Digital ISBO</a></h3>
+      <p>Sistema de señalética educativa y pantalla de inasistencias docentes con panel de gestión en tiempo real y sincronización bidireccional con Google Sheets.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
+        <img src="https://img.shields.io/badge/Sheets%20API-34A853?style=flat-square&logo=googlesheets&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://rea.ceibal.edu.uy/rea/aula-ia-como-aprenden-las-computadoras">Aula IA — Ceibal REA</a></h3>
+      <p>Recurso Educativo Abierto (REA) oficial sobre fundamentos de Inteligencia Artificial y Machine Learning diseñado para educación media uruguaya.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Ceibal-REA-00833E?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI%20Education-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Publicación-2024-blue?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🖥️ <a href="https://github.com/gavafue/POITE-Scripts-SH-DGES">POITE-Scripts-SH-DGES</a></h3>
+      <p>Suite interactiva en Bash para diagnóstico de redes, mantenimiento de equipos, seguridad y gestión de cuentas en laboratorios escolares GNU/Linux.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+        <img src="https://img.shields.io/badge/SysAdmin-232F3E?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📝 <a href="https://github.com/gavafue/tiza">Tiza — Suite Docente</a></h3>
+      <p>Suite de herramientas de productividad y corrección pedagógica para docentes integradas a Ceibal CREA y Portafolio Docente.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/EdTech-7952B3?style=flat-square" />
+        <img src="https://img.shields.io/badge/Ceibal%20CREA-00833E?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☕ <a href="https://github.com/gavafue/Taller2-SistemaEvaluacion">Sistema de Evaluación Académica</a></h3>
+      <p>Plataforma integral en arquitectura cliente-servidor para gestión de exámenes, evaluaciones y actas de estudiantes.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/gavafue/browser_agent">Browser Agent (AI Automation)</a></h3>
+      <p>Agente inteligente que controla el navegador mediante lenguaje natural utilizando Playwright y modelos LLM avanzados.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+        <img src="https://img.shields.io/badge/LLM%20Agents-8A2BE2?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 🛠️ Stack Tecnológico
 
-<details open>
-  <summary><b>Frontend</b></summary>
-  <br>
-  
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-</details>
+<div align="center">
 
-<details open>
-  <summary><b>Backend</b></summary>
-  <br>
-  
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-</details>
+### 💻 Lenguajes de Programación
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<details>
-  <summary><b>Bases de Datos</b></summary>
-  <br>
-  
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-</details>
+### 🌐 Frontend & Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-<details>
-  <summary><b>DevOps & Herramientas</b></summary>
-  <br>
-  
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
-</details>
+### 🗄️ Backend, Bases de Datos & Cloud
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-<details>
-  <summary><b>Cloud & Hosting</b></summary>
-  <br>
-  
-  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-</details>
+### 🐧 Infraestructura, DevOps & Herramientas
+![GNU/Linux](https://img.shields.io/badge/GNU%2FLinux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<details>
-  <summary><b>Diseño & Otros</b></summary>
-  <br>
-  
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-</details>
+</div>
+
+---
+
+## 🎓 Formación & Certificaciones
+
+* 📜 **Profesor de Educación Media en Informática** — *Instituto Normal de Enseñanza Técnica (INET - CFE / ANEP)*. Título de Grado Oficial (2024).
+* 🚀 **Full Stack Web Developer Bootcamp ("Become a Software Professional")** — *Radium Rocket* (2022).
+* 💻 **Desarrollo Web Front-End** — *Jóvenes a Programar (Plan Ceibal)* (2021).
+* 🎯 **Formación Especializada:**
+  * Curso preparatorio de programación para prueba de ingreso al PRIA — *Universidad Tecnológica (UTEC)* (2024).
+  * Participante en el *1er Congreso de Innovación Educativa en Ciencias de la Computación de Uruguay (CIECCU 2025)* — DGES Inspección Informática.
+
+---
 
 ## 📊 Estadísticas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gavafue&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gavafue&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gavafue&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats de Gabriel" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gavafue&theme=tokyonight&hide_border=true" alt="GitHub Streak de Gabriel" width="48%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavafue&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="45%" />
-</div>
-
-## 🏆 Logros GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gavafue&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-## 🔝 Repositorios Destacados
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=gavafue&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</div>
-
-## ✉️ Contacto
-
-¿Interesado en colaborar en proyectos educativos o de desarrollo web? ¡Me encantaría intercambiar ideas!
-
-- 📧 **Email**: [gabriel.vazquez@docente.ceibal.edu.uy](mailto:gabriel.vazquez@docente.ceibal.edu.uy)
-- 🌐 **Portfolio**: [Curriculum Vitae](https://export.cvuy.uy/cv/?1ef08a58a0c81bcd4d399b62513ffa9a)
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+<div align="center" style="margin-top: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavafue&theme=tokyonight&hide_border=true&layout=compact" alt="Lenguajes Más Usados" width="48%" />
 </div>
 
 ---
+
+## 📫 Conectemos
+
+¿Interesado en desarrollo de software educativo, arquitecturas web o proyectos de impacto comunitario?
+
+* 💼 **LinkedIn:** [linkedin.com/in/gavafue](https://www.linkedin.com/in/gavafue)
+* 📄 **Curriculum Vitae Oficial (CVUy / ANII):** [export.cvuy.uy/cv/?1ef08a58a0c81bcd4d399b62513ffa9a](https://export.cvuy.uy/cv/?1ef08a58a0c81bcd4d399b62513ffa9a)
+* 🏫 **Correo Institucional Ceibal:** [gabriel.vazquez@docente.ceibal.edu.uy](mailto:gabriel.vazquez@docente.ceibal.edu.uy)
+* 📧 **Correo Personal:** [gavf.vazquez@gmail.com](mailto:gavf.vazquez@gmail.com)
+* 📺 **Canal de Aprendizaje:** [@gavafueLearning en YouTube](https://youtube.com/@gavafueLearning)
+
+<div align="center">
+  <sub>Construido con pasión por la educación pública y la tecnología libre · Montevideo, Uruguay 🇺🇾</sub>
+</div>
