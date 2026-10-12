@@ -219,6 +219,14 @@ timeline
 
 ---
 
+## 🗣️ Idiomas
+
+* 🇺🇾 **Español:** Nativo.
+* 🇬🇧 **Inglés:** Nivel básico (Lectura técnica y comprensión de documentación de software).
+* 🤟 **Lengua de Señas Uruguaya (LSU):** Nivel básico (Accesibilidad pedagógica y comunicación inclusiva en el aula).
+
+---
+
 ## 📌 Repositorios Recomendados para Destacar (Pinned)
 
 Para explorar directamente el trabajo más representativo en software libre y herramientas educativas:
