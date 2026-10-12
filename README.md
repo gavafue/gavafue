@@ -72,7 +72,7 @@ timeline
 
 #### Detalle de Asignaturas & Cargos Desempeñados:
 
-* 💻 **Programación Web Full Stack** · *Instituto Superior Brazo Oriental (ISBO - UTU)* | **3° MM** (2024 - 2026 · 21 hs semanales)
+* 💻 **Programación Web Full Stack** · *Instituto Superior Brazo Oriental (ISBO - UTU)* | **3° MM** (2024 - 2026)
   * *Núcleo curricular:* Arquitecturas cliente-servidor, APIs RESTful, PHP modular con PDO, JavaScript moderno (ES6+, Async/Await), bases de datos MySQL/MariaDB, maquetación adaptativa, contenedores Docker para entornos locales y control de versiones con Git/GitHub.
 * 🐧 **Administración de Sistemas Operativos (Adm SSOO)** · *Instituto Superior Brazo Oriental (ISBO - UTU)* | **3° MK** (2026 · 60 hs cátedra)
   * *Núcleo curricular:* Administración avanzada de servidores GNU/Linux, gestión de usuarios, grupos y permisos PAM, automatización de tareas con Bash & `cron`, políticas de respaldo remoto diferencial e incremental (`rsync`), seguridad en red con cortafuegos y contenedores de aplicación con Docker.
@@ -82,8 +82,9 @@ timeline
   * *Núcleo curricular:* Acompañamiento metodológico y técnico en el ciclo de vida de proyectos integradores de fin de carrera: desde la concepción del prototipo y modelado (3D / Tinkercad) hasta el desarrollo de software, defensas orales ante tribunal evaluador y entrega técnica documentada.
 * 🛠️ **Asistente Técnico de Informática (ATI / Laboratorio)** · *Instituto Superior Brazo Oriental (ISBO - UTU)* (2024 - 2026)
   * Mantenimiento preventivo y correctivo de equipamiento informático, soporte técnico a aulas y docentes, despliegue de redes locales y administración de servidores institucionales.
+> *Carga docente total en DGETP (ISBO) para 2026: **31 horas semanales** (docencia directa + ATI).*
 * 🌐 **Profesor Orientador en Informática y Tecnología Educativa (POITE)** · *DGES - Secundaria*
-  * **Liceo N° 75** (2026 - Presente) & **Liceo N° 57** (2024 - 2025): Acondicionamiento masivo de laboratorios con imágenes maestras GNU/Linux, integración del proxy institucional DGES, configuración remota con SSH/Ansible, clonación por red vía Clonezilla Multicast y alfabetización digital en comunidad.
+  * **Liceo N° 75** (2026 - Presente · **10 horas semanales**) & **Liceo N° 57** (2024 - 2025 · 10 hs semanales): Acondicionamiento masivo de laboratorios con imágenes maestras GNU/Linux, integración del proxy institucional DGES, configuración remota con SSH/Ansible, clonación por red vía Clonezilla Multicast y alfabetización digital en comunidad.
 * 👨‍🏫 **Docencia en Educación Secundaria (DGES):**
   * **Liceo N° 18 «Sarandí»** (2025): Docente de Informática y Ciencias de la Computación.
   * **Liceo N° 23** (2024): Docente de Informática (7mo año - Ciencias de la Computación).
