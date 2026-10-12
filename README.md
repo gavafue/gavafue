@@ -50,39 +50,48 @@ Inscripto en el **Registro Departamental de Interino Egresados de Montevideo** (
 timeline
     title Trayectoria Docente en Informática (2023 - 2026)
     section 2023
-        UTU E.T. Lavalleja : Ciencias de la Computación (Programación)
-        DGES Liceo 53 : Ciencias Computacionales
+        UTU ISBO : Profesor de Informática
+        UTU E.T. Lavalleja : Profesor de Informática (Programación)
+        DGES Liceo 53 : Docente de Ciencias Computacionales
     section 2024
-        UTU ISBO : Programación Web (EMT Informática)
+        UTU ISBO : Profesor de Programación Web Full Stack & Asistente Técnico (ATI)
         DGES Liceo 57 : POITE (Tecnología Educativa & Lab GNU/Linux)
+        DGES Liceo 23 : Docente de Informática (7mo año)
         Ceibal REA : Publicación "Aula IA - ¿Cómo aprenden las computadoras?"
     section 2025
-        UTU ISBO : Programación Web Full Stack (3° MM) & Asistente Lab
-        DGES Liceo 18 : POITE (Gestión de Infraestructura & Redes)
+        UTU ISBO : Profesor de Programación Web Full Stack & Asistente Técnico (ATI)
+        DGES Liceo 18 : Docente / Profesor de Informática
     section 2026
-        UTU ISBO : Programación Web Full Stack (3° MM)
-                 : Administración de Sistemas Operativos (3° MK)
-                 : Sistemas Operativos (2° MM)
-                 : Tutoría de Proyecto UTULAB (3° MM)
-                 : Asistente Lab de Informática (ALI)
-        DGES Liceo 18 : POITE (Tecnología Educativa)
+        UTU ISBO : Profesor de Programación Web Full Stack
+                 : Administración de Sistemas Operativos (Adm SSOO)
+                 : Sistemas Operativos (SSOO)
+                 : Tutoría de Proyecto UTULAB
+                 : Asistente Técnico de Informática (ATI)
+        DGES Liceo 75 : POITE (Tecnología Educativa)
 ```
 
-#### Detalle de Asignaturas Dictadas:
+#### Detalle de Asignaturas & Cargos Desempeñados:
 
 * 💻 **Programación Web Full Stack** · *Instituto Superior Brazo Oriental (ISBO - UTU)* | **3° MM** (2024 - 2026 · 21 hs semanales)
   * *Núcleo curricular:* Arquitecturas cliente-servidor, APIs RESTful, PHP modular con PDO, JavaScript moderno (ES6+, Async/Await), bases de datos MySQL/MariaDB, maquetación adaptativa, contenedores Docker para entornos locales y control de versiones con Git/GitHub.
-* 🐧 **Administración de Sistemas Operativos** · *Instituto Superior Brazo Oriental (ISBO - UTU)* | **3° MK** (2026 · 60 hs cátedra)
+* 🐧 **Administración de Sistemas Operativos (Adm SSOO)** · *Instituto Superior Brazo Oriental (ISBO - UTU)* | **3° MK** (2026 · 60 hs cátedra)
   * *Núcleo curricular:* Administración avanzada de servidores GNU/Linux, gestión de usuarios, grupos y permisos PAM, automatización de tareas con Bash & `cron`, políticas de respaldo remoto diferencial e incremental (`rsync`), seguridad en red con cortafuegos y contenedores de aplicación con Docker.
-* 🖥️ **Sistemas Operativos** · *Instituto Superior Brazo Oriental (ISBO - UTU)* | **2° MM** (2026 · 80 hs cátedra)
+* 🖥️ **Sistemas Operativos (SSOO)** · *Instituto Superior Brazo Oriental (ISBO - UTU)* | **2° MM** (2026 · 80 hs cátedra)
   * *Núcleo curricular:* Estructura y arquitectura de sistemas operativos, planificación de procesos y procesador, administración de memoria, sistema de archivos UNIX, redirecciones de entrada/salida y pipelines interactivos avanzados.
 * 🚀 **Tutoría de Proyecto UTULAB** · *Instituto Superior Brazo Oriental (ISBO - UTU)* | **3° MM** (2026 · 38 hs cátedra)
   * *Núcleo curricular:* Acompañamiento metodológico y técnico en el ciclo de vida de proyectos integradores de fin de carrera: desde la concepción del prototipo y modelado (3D / Tinkercad) hasta el desarrollo de software, defensas orales ante tribunal evaluador y entrega técnica documentada.
-* 🛠️ **Asistente de Laboratorio de Informática (ALI)** · *Instituto Superior Brazo Oriental (ISBO - UTU)* (2025 - 2026)
+* 🛠️ **Asistente Técnico de Informática (ATI / Laboratorio)** · *Instituto Superior Brazo Oriental (ISBO - UTU)* (2024 - 2026)
   * Mantenimiento preventivo y correctivo de equipamiento informático, soporte técnico a aulas y docentes, despliegue de redes locales y administración de servidores institucionales.
-* 🌐 **Profesor Orientador en Informática y Tecnología Educativa (POITE)** · *DGES - Liceo 18 & Liceo 57* (2024 - 2026 · 20 hs semanales)
-  * Acondicionamiento masivo de laboratorios con imágenes maestras GNU/Linux, integración del proxy institucional DGES, configuración remota con SSH/Ansible, clonación por red vía Clonezilla Multicast y alfabetización digital en comunidad.
-* 👨‍🏫 **Tribunales de Examen y Comisiones Evaluadoras:**
+* 🌐 **Profesor Orientador en Informática y Tecnología Educativa (POITE)** · *DGES - Secundaria*
+  * **Liceo N° 75** (2026 - Presente) & **Liceo N° 57** (2024 - 2025): Acondicionamiento masivo de laboratorios con imágenes maestras GNU/Linux, integración del proxy institucional DGES, configuración remota con SSH/Ansible, clonación por red vía Clonezilla Multicast y alfabetización digital en comunidad.
+* 👨‍🏫 **Docencia en Educación Secundaria (DGES):**
+  * **Liceo N° 18 «Sarandí»** (2025): Docente de Informática y Ciencias de la Computación.
+  * **Liceo N° 23** (2024): Docente de Informática (7mo año - Ciencias de la Computación).
+  * **Liceo N° 53** (2023): Docente de Ciencias Computacionales y Programación.
+* 🏛️ **Docencia en Educación Técnico-Profesional (DGETP - UTU):**
+  * **Instituto Superior Brazo Oriental (ISBO)** (2023): Docente de Informática.
+  * **Escuela Técnica Barrio Lavalleja** (2023): Docente de Informática y Programación.
+* 📋 **Tribunales de Examen y Comisiones Evaluadoras:**
   * Miembro de mesas evaluadoras y tribunales de examen oficiales en Secundaria y UTU (Liceo N° 25, Liceo N° 75, ISBO).
 
 ---
