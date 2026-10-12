@@ -144,7 +144,7 @@ timeline
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🐳 <a href="https://github.com/gavafue/API">API REST PHP & Docker</a></h3>
+      <h3>🐳 <a href="https://github.com/gavafue/api-rest-php-docker">API REST PHP & Docker</a></h3>
       <p>Microservicio API REST ligero, autocontenido y dockerizado desarrollado en PHP puro con soporte completo de CORS, preflights cacheados y estructura de datos lista para consumo por aplicaciones SPA y móviles.</p>
       <p>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
@@ -226,7 +226,7 @@ Para explorar directamente el trabajo más representativo en software libre y he
 1. [**POITE-Scripts-SH-DGES**](https://github.com/gavafue/POITE-Scripts-SH-DGES) — Suite interactiva en Bash para administración de laboratorios Linux, redes escolares y despliegue con Clonezilla/Ansible.
 2. [**browser_agent**](https://github.com/gavafue/browser_agent) — Agente de Inteligencia Artificial para navegación autónoma y automatización web con Playwright y LLMs.
 3. [**Taller2-SistemaEvaluacion**](https://github.com/gavafue/Taller2-SistemaEvaluacion) — Plataforma cliente-servidor en Java Swing y sockets para gestión y corrección de evaluaciones académicas.
-4. [**API**](https://github.com/gavafue/API) — Microservicio RESTful en PHP dockerizado con CORS y endpoints estructurados.
+4. [**api-rest-php-docker**](https://github.com/gavafue/api-rest-php-docker) — Microservicio RESTful en PHP dockerizado con CORS y endpoints estructurados.
 5. [**programacionweb2025**](https://github.com/gavafue/programacionweb2025) — Repositorio de cátedra y proyectos prácticos de Programación Web Full Stack en DGETP - UTU.
 6. [**ecommerce-jap**](https://github.com/gavafue/ecommerce-jap) — Aplicación e-commerce con catálogo dinámico, carrito y sistema de comentarios (Jóvenes a Programar - Ceibal).
 
